@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "用户",
+  "usingComponents": {
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "cu-custom": "/colorui/components/cu-custom",
+    "tabbar": "/pages/components/tabbar"
+  }
+}

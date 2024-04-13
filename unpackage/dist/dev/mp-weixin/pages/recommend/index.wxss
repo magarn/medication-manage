@@ -1,0 +1,12 @@
+
+.content.data-v-e8669a54 {
+		margin-top: 12px;
+		background-color: #FFFFFF;
+}
+.btn_box.data-v-e8669a54{
+		width: 100%;
+		display: flex;
+        justify-content:flex-start;
+		flex-wrap:wrap;
+}
+

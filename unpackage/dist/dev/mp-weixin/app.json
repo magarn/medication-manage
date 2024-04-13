@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/user/user",
+    "pages/home/index",
+    "pages/add/add",
+    "pages/user/loginAndReg/login",
+    "pages/user/loginAndReg/register",
+    "pages/index/detail",
+    "pages/recommend/index",
+    "pages/webview/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "tabbar": "/pages/components/tabbar"
+  }
+}

@@ -1,0 +1,10 @@
+
+.pos-bottom.data-v-32a402ce {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+}
+
+
+

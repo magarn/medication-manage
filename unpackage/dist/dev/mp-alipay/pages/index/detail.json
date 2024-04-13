@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "",
+  "pullRefresh": false,
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}
