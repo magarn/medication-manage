@@ -14,5 +14,6 @@ nodejs(express)
 后台：
 1.  npm install
 3.  修改数据库账号密码
-2.  node app.js
+4.  node app.js
+5.  服务器运行前进入code文件夹，输入npm run dev
 
